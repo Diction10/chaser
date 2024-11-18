@@ -1,0 +1,21 @@
+Dear {first_name} {last_name},
+
+You currently have an overdue LapSafe laptop borrowed from {location} in Locker {locker} which was due for return on {due_date} before {time}.
+
+Please arrange for this to be returned today to avoid this being escalated. Once you have returned the laptop please inform me by return of this email.  
+
+When laptops are not returned on time, this affects other students as they are not able to borrow the laptop. Therefore, in future, please return the laptop before the due time. Terms and conditions of loans can be found at:
+
+Https://icity.bcu.ac.uk/IT/Students/Self-service-laptop-loans 
+
+Regards,
+
+Rasheed Amolegbe (He/Him),
+
+IT Technician.
+
+
+
+
+
+

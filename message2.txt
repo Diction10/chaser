@@ -1,0 +1,10 @@
+Dear {first_name} {last_name},
+This is a second reminder to return the laptop which you borrowed from {location} building at locker {locker}, please see below for further details.
+Please note that these laptops are only to be borrowed for 24 hours duration.
+I have included my Team Leader, your Course Leader, and Personal Tutor in this email. If you fail to return the laptop by the end of tomorrow, you may be liable for a replacement device charge, and a final email will be sent to you by our IT Customer Service Assistant Director. This will include details of the invoice process. If there are extenuating circumstances which are preventing you from returning the laptop, or if you have any questions, please reply to me here.
+Terms and conditions of loans can be found at:
+https://icity.bcu.ac.uk/IT/Students/Self-service-laptop-loans 
+
+Kind Regards,
+Rasheed Amolegbe.
+IT Technician.
